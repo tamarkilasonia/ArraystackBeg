@@ -27,7 +27,6 @@ public class ArrayStack <T> implements Stack<T>{
         stack[top--] = null; // Clear the reference and decrement top
         return item;
     }
-
     @Override
     public T peek() {
         if (isEmpty()) {
