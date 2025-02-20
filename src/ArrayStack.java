@@ -35,7 +35,7 @@ public class ArrayStack <T> implements Stack<T>{
     @Override
     public boolean isEmpty() {
         return top == -1; // Stack is empty if top is -1
-    }
+    } 
     @Override
     public int size() {
         return top + 1; // Number of elements is top + 1
