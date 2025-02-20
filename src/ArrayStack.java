@@ -10,7 +10,6 @@ public class ArrayStack <T> implements Stack<T>{
         this.stack = (T[]) new Object[capacity];
         this.top = -1; // Stack is initially empty
     }
-
     @Override
     public void push(T item) {
         if (top == capacity - 1) {
