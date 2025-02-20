@@ -19,7 +19,7 @@ public class Main {
         stack.push(60);
         System.out.println("Stack size: " + stack.size()); // Output: 5
 
-        // Uncomment to see exception when stack is full
+        
         // stack.push(70); // Throws IllegalStateException: Stack is full
     }
 }
