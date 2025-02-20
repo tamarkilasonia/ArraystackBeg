@@ -32,7 +32,6 @@ public class ArrayStack <T> implements Stack<T>{
         }
         return stack[top]; // Return the top element without removing it
     }
-
     @Override
     public boolean isEmpty() {
 
