@@ -1,5 +1,4 @@
 
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the 
 public class Main {
     public static void main(String[] args) {
         Stack<Integer> stack = new ArrayStack<>(5); // Stack with capacity 5
