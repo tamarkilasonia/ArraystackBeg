@@ -19,6 +19,6 @@ public class Main {
         System.out.println("Stack size: " + stack.size()); // Output: 5
 
         
-       
+      
     }
 }
