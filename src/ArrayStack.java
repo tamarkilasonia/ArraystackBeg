@@ -40,4 +40,4 @@ public class ArrayStack <T> implements Stack<T>{
     public int size() {
         return top + 1; // Number of elements is top + 1
     }
-}
+
