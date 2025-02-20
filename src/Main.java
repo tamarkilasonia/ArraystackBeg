@@ -20,6 +20,6 @@ public class Main {
         System.out.println("Stack size: " + stack.size()); // Output: 5
 
         
-        // stack.push(70); // Throws IllegalStateException: Stack is full
+       
     }
 }
