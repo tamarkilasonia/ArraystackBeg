@@ -16,7 +16,6 @@ public class ArrayStack <T> implements Stack<T>{
         }
         stack[++top] = item; // Increment top and add item
     }
-
 @Override
     public T pop() {
         if (isEmpty()) {
