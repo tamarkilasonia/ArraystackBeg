@@ -2,7 +2,6 @@ public class ArrayStack <T> implements Stack<T>{
     private T[] stack;      // Array to hold stack elements
     private int top;        // Index of the top element
     private int capacity;   // Maximum capacity of the stack
-
     // Constructor to initialize the stack
     @SuppressWarnings("unchecked")
     public ArrayStack(int capacity) {
