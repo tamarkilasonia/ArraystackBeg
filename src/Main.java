@@ -19,4 +19,3 @@ public class Main {
         System.out.println("Is stack empty? " + stack.isEmpty()); // Output: true
     }
 }
-}
