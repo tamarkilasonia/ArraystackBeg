@@ -8,7 +8,7 @@ public class ArrayStack<T> implements Stack<T> {
         this.capacity = capacity;
         this.stack = (T[]) new Object[capacity];
         this.top = -1;
-    
+    }
 
     @Override
     public void push(T item) {
