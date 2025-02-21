@@ -37,7 +37,6 @@ public class ArrayStack<T> implements Stack<T> {
         }
         return stack[top];
     }
-
     @Override
     public boolean isEmpty() {
         return top == -1;
