@@ -1,7 +1,6 @@
 public class Main {
     public static void main(String[] args) {
         Stack<Integer> stack = new ArrayStack<>(2); // Small initial capacity to test resizing
-
         stack.push(10);
         stack.push(20);
         stack.push(30); // Should trigger resize
