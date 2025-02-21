@@ -17,7 +17,6 @@ public class ArrayStack<T> implements Stack<T> {
         }
         stack[++top] = item;
     }
-
     @Override
     public T pop() {
         if (isEmpty()) {
