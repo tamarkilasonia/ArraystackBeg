@@ -75,7 +75,6 @@ public class ArrayStack<T> implements Stack<T> {
         }
         return false;
     }
-
     
     // toString method to display the stack elements
     @Override
