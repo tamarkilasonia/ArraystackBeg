@@ -2,13 +2,13 @@ public class ArrayStack<T> implements Stack<T> {
     private T[] stack;
     private int top;
     private int capacity;
-
+    
     @SuppressWarnings("unchecked")
     public ArrayStack(int capacity) {
         this.capacity = capacity;
         this.stack = (T[]) new Object[capacity];
         this.top = -1;
-    }
+    
 
     @Override
     public void push(T item) {
