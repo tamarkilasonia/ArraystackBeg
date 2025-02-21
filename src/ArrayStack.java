@@ -57,7 +57,7 @@ public class ArrayStack<T> implements Stack<T> {
         stack = newStack;
         capacity = newCapacity;
     }
-
+}
     // Clear method to empty the stack
     public void clear() {
         for (int i = 0; i <= top; i++) {
