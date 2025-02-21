@@ -31,7 +31,6 @@ public class ArrayStack<T> implements Stack<T> {
         }
         return item;
     }
-
     @Override
     public T peek() {
         if (isEmpty()) {
