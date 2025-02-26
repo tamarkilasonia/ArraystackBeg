@@ -1,4 +1,4 @@
-# Generic Stack Data Structure in Java**
+# Generic Stack Data Structure in Java
 
 This project implements a **generic stack data structure** in Java using arrays. It follows the **Last-In-First-Out (LIFO)** principle, where the last element added is the first one to be removed. The `ArrayStack` class provides essential stack operations such as:  
 
