@@ -6,7 +6,8 @@ This project implements a **generic stack data structure** in Java using arrays.
 - **`pop`** – Removes and returns the top element.  
 - **`peek`** – Views the top element without removing it.  
 - **`isEmpty`** – Checks if the stack is empty.  
-- **`size`** – Returns the number of elements in the stack.  
+- **`size`** – Returns the number of elements in the stack.
+- 
 
 ---
 
