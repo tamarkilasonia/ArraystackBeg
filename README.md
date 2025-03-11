@@ -28,3 +28,4 @@ This project is ideal for:
 - Showcasing **good software design principles** with an emphasis on performance and usability.  
 
 Feel free to explore the code and contribute to its development! 🚀  
+
