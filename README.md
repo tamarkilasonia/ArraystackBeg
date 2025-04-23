@@ -22,11 +22,3 @@ In addition to basic functionalities, this implementation includes advanced feat
 
 ---
 
-###  **Why Use This Project?**  
-This project is ideal for:  
-- Learning about **data structures in Java**.  
-- Demonstrating the power of **generics**.  
-- Showcasing **good software design principles** with an emphasis on performance and usability.  
-
-Feel free to explore the code and contribute to its development! 🚀  
-
