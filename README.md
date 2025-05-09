@@ -8,7 +8,7 @@ This project implements a **generic stack data structure** in Java using arrays.
 - **`peek`** – Views the top element without removing it.  
 - **`isEmpty`** – Checks if the stack is empty.  
 - **`size`** – Returns the number of elements in the stack.
-- 
+  
 
 ---
 
