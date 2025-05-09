@@ -18,7 +18,6 @@ In addition to basic functionalities, this implementation includes advanced feat
 - **Dynamic Resizing** – The stack grows or shrinks based on usage, optimizing memory efficiency.  
 - **`clear()` Method** – Efficiently empties the stack.  
 - **`contains()` Method** – Checks for the presence of specific elements.
-- 
-
+  
 ---
 
